@@ -3,6 +3,7 @@
     height: 600px;
     border-radius: 16px;
     background-image: url(resources/Banner\ Image.png);
+    /* background-image: url(resources/Group\ 70.png); */
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -86,7 +87,7 @@
 }
 
 .hn22 {
-    padding-top: 326px;
+    /* padding-top: 326px; */
     padding-left: 126px;
     font-size: 18px;
     color: rgba(255, 255, 255, 0.80);
@@ -97,12 +98,132 @@
 }
 
 .hn21 {
-   padding-top: 126px;
-   padding-left: 126px;
+    padding-top: 126px;
+    padding-left: 126px;
     color: #FFF;
     font-family: Merriweather;
     font-size: 64px;
     font-style: normal;
     font-weight: 900;
     letter-spacing: 7.04px;
+}
+
+.hn23 {
+    padding-left: 158px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+/* image */
+.hn32 {
+    /* display: flex;
+    width: 319.83px;
+    height: 464.662px;
+    padding-top: 68px;
+    padding-bottom: 67px;
+    padding-left: 862px;
+    padding-right: 138px; */
+
+}
+
+/* next */
+.hn3 {
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.hn3in {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.hn3box {
+    width: 1320px;
+    height: 550px;
+    background-color: rgba(255, 0, 0, 0.263);
+    padding-top: 100px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button {
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    background: #F00;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.hn4box {
+    width: 1320px;
+    height: 482px;
+    background-color: #F00;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hn5box {
+    background-color: white;
+    text-align: center;
+    /* width: 1320px;
+    height: 482px; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.hl {
+    color: #F00;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+
+}
+
+.sl {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+}
+
+.red{
+    width: 1320px;
+    height: 229px;
+    border-radius: 16px 0px 16px 16px;
+}
+.girl{
+    
+    border-radius: 16px 16px 0px 0px;
+    padding-left:888px;
+    padding-bottom: 0px;
+}
+.hn5-m{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    text-align: center;
+    
+    
 }
