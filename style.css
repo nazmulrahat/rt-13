@@ -1,4 +1,5 @@
 .banner {
+    padding-top: 140px;
     width: 1320px;
     height: 600px;
     border-radius: 16px;
@@ -7,6 +8,7 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
 }
 
 .banner-title {
@@ -174,10 +176,94 @@
 .hn4box {
     width: 1320px;
     height: 482px;
-    background-color: #F00;
-    display: block;
+    /* height: auto;
+    width: auto; */
+    background-color: white;
     margin-left: auto;
     margin-right: auto;
+
+}
+
+.lp {
+    /* display: inline;
+    text-align: center; */
+
+}
+
+.a1 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+}
+
+.a2 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+
+}
+
+.a3 {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.b1 {
+    display: flex;
+}
+
+.a4 {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+.w{
+    padding-top: 45px;
+    padding-left: 45px ;
+}
+.aa4 {
+    width: 463px;
+    height: 463px;
+    border-radius: 463px;
+    border: 15px solid #F00;
+}
+
+/* tttttttttttttttt */
+.a5 {
+
+    width: 364.844px;
+    height: 364.844px;
+    border-radius: 364.844px;
+    border: 155px solid red;
+
+}
+
+.a11 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.a12 {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+}
+
+.b2 {
+    display: block;
+    margin-left: 150px;
+    text-align: center;
 }
 
 .hn5box {
