@@ -150,7 +150,7 @@
 .hn3box {
     width: 1320px;
     height: 550px;
-    background-color: rgba(255, 0, 0, 0.263);
+    background-image: linear-gradient(rgba(227, 73, 73, 0.264), white);
     padding-top: 100px;
     text-align: center;
     margin-left: auto;
@@ -162,14 +162,13 @@
     padding: 16px 32px;
     justify-content: center;
     align-items: center;
-    gap: 10px;
     border-radius: 8px;
     background: #F00;
     color: #FFF;
     text-align: center;
     font-family: Inter;
     font-size: 20px;
-    font-style: normal;
+    border-color: #F00;
 }
 
 .hn4box {
@@ -207,23 +206,135 @@
     font-style: normal;
 }
 
-.red{
+.red {
     width: 1320px;
     height: 229px;
     border-radius: 16px 0px 16px 16px;
 }
-.girl{
-    
+
+.girl {
+
     border-radius: 16px 16px 0px 0px;
-    padding-left:888px;
+    padding-left: 888px;
     padding-bottom: 0px;
 }
-.hn5-m{
+
+.hn5-m {
     display: block;
     margin-left: auto;
     margin-right: auto;
     background-color: white;
     text-align: center;
-    
-    
+}
+
+.products,
+.products2 {
+    display: flex;
+}
+
+.products-bc {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1272px;
+    height: 1200px;
+    background-color: white;
+}
+
+.p1 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.p2 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+}
+
+.p3 {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+}
+
+/* last stage */
+.last {
+    width: 1320px;
+    height: 616px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 80px;
+}
+
+.last-p {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+}
+
+.last-p1 {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.footer {
+    width: 1600px;
+    height: 609px;
+    background: #070211;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.call,
+.web {
+    color: #FFF;
+    display: flex;
+    text-align: right;
+}
+
+.im {
+    height: 24px;
+}
+
+.pp {
+    color: white;
+}
+
+.footer1 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 140px;
+    margin-right: 291px;
+    padding-top: 120px;
+
+}
+
+.icon {
+    display: flex;
+    margin-left: 700px;
+}
+
+.end {
+    color: #FFF;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 140px;
+    margin-right: 140px;
+    padding-top: 98px;
 }
