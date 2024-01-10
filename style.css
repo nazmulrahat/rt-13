@@ -85,12 +85,10 @@
 .hn2-title {
     color: #FFF;
     font-family: Merriweather;
-    /* font-size: 64px; */
     font-style: normal;
 }
 
 .hn22 {
-    /* padding-top: 326px; */
     padding-left: 126px;
     font-size: 18px;
     color: rgba(255, 255, 255, 0.80);
@@ -120,17 +118,6 @@
     font-weight: 700;
 }
 
-/* image */
-.hn32 {
-    /* display: flex;
-    width: 319.83px;
-    height: 464.662px;
-    padding-top: 68px;
-    padding-bottom: 67px;
-    padding-left: 862px;
-    padding-right: 138px; */
-
-}
 
 /* next */
 .hn3 {
@@ -177,17 +164,9 @@
 .hn4box {
     width: 1320px;
     height: 482px;
-    /* height: auto;
-    width: auto; */
     background-color: white;
     margin-left: auto;
     margin-right: auto;
-
-}
-
-.lp {
-    /* display: inline;
-    text-align: center; */
 
 }
 
