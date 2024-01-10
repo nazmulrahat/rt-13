@@ -223,10 +223,12 @@
     height: 100px;
     text-align: center;
 }
-.w{
+
+.w {
     padding-top: 45px;
-    padding-left: 45px ;
+    padding-left: 45px;
 }
+
 .aa4 {
     width: 463px;
     height: 463px;
@@ -424,4 +426,18 @@
     margin-left: 140px;
     margin-right: 140px;
     padding-top: 98px;
+}
+
+.em {
+    width: 648px;
+    height: 72px;
+    border-radius:50px 0px 0px 50px;
+    background: #FFF;
+}
+
+.sub {
+    width: 210px;
+    height: 72px;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
 }
